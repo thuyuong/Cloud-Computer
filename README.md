@@ -1,5 +1,6 @@
 # Cloud Computer 
 Build data warehouse in operating system linux by docker
+
 Download docker container has built data warehouse : docker pull thuyuong/ubuntu:18.04
 -	Link down datayoutube.txt: https://drive.google.com/file/d/1uJ72mxyNLnzapv_-7cJyjgM93nBsW_xh/view?usp=sharing
 -	Câu lệnh download file datayoutube.txt:  wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1uJ72mxyNLnzapv_-7cJyjgM93nBsW_xh' -O datayoutube.txt 
